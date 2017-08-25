@@ -31,7 +31,7 @@ directory.
 - Indexing starts from top left of image, sequential, row by row.
 - Betaflight OSD starts logos from 160 (at time of writing).
 
-# max.py
+## max.py
 
 Packs or unpacks a MAX7456 font (`.mcm`).
 
